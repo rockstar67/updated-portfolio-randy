@@ -177,8 +177,17 @@ ul, li, ol{
 }
 
 #about-me {
-
     transform: rotate(180deg);
+}
+
+#portfolio-pic-1 {
+    height: 310px;
+    width: 400px;
+}
+
+#portfolio-pic-2 {
+    height: 310px;
+    width: 400px;
 }
 
 /*------------------------------------------------------------------
